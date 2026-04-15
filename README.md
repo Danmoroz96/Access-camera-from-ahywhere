@@ -1,5 +1,9 @@
 # Access-camera-from-ahywhere
 
+In this lab, I will make your local video streaming system accessible from anywhere over the Internet.
+
+This demonstrates how IoT systems can be accessed remotely.
+
 # Local Video Streaming with ngrok
 
 ## 🌐 My ngrok URL
